@@ -36,3 +36,6 @@ cashiers:
       # W-IOTX
       - token2: "io15qr5fzpxsnp7garl4m7k355rafzqn8grrm0grz"
         token1: "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69"
+      # MIST
+      - token2: "io1kf2u4nnp2m2h4p6zvj42z89qdmw9hkz3m4r9uq"
+        token1: "0x88ACDd2a6425c3FaAE4Bc9650Fd7E27e0Bebb7aB"
